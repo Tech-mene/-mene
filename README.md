@@ -102,7 +102,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tech-mene&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
 
 </td></tr></table>  
 
